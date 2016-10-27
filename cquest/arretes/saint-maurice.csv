@@ -1,0 +1,78 @@
+"Bureau","Voie","Début pair","Fin Pair","Début impair","Fin Impair"
+1,"Ile de la chaussée",0,9998,1,9999
+1,"Ecluse de Saint Maurice",0,9998,1,9999
+1,"Allée des Erables",0,9998,1,9999
+1,"Rue du Maréchal Leclerc",2,28,1,31
+1,"Rue du Pont",0,9998,1,9999
+1,"Quai de la République",0,9998,1,9999
+1,"Rue du Val d’Osne",0,0,1,7
+2,"Ruelle du Bois",0,9998,1,9999
+2,"Impasse Junot",0,9998,1,9999
+2,"Rue du Maréchal Leclerc",30,142,41,89
+2,"Rue Maurice Gredat",0,9998,1,9999
+2,"Rue du Val d’Osne",1,14,0,0
+2,"Villa Vacassy",0,9998,1,9999
+2,"Place Jean Jaurès",0,9998,1,9999
+3,"Rue Adrien Damalix",2,26,1,23
+3,"Rue Edmond Nocard",0,9998,1,9999
+3,"Rue des Epinettes",0,0,1,9999
+3,"Villa des Epinettes",0,9998,1,9999
+3,"Rue Jules Béclard",0,9998,1,9999
+3,"Avenue du Mal de Lattre de Tassigny","30B",54,0,0
+3,"Rue du Val d’Osne",0,0,29,39
+3,"Avenue de Verdun",0,9998,1,9999
+4,"Rue des Amandiers",0,9998,1,9999
+4,"Rue Cuif",0,9998,1,9999
+4,"Rue des Epinettes",0,9998,0,0
+4,"Avenue du Mal de Lattre de Tassigny",6,"30A",0,0
+4,"Rue de la Pompe",0,9998,1,9999
+4,"Rue des Saules",0,9998,1,9999
+4,"Rue des Sureaux",0,9998,1,9999
+4,"Impasse du Val d’Osne",0,9998,1,9999
+4,"Rue du Val d’Osne",0,0,9,27
+5,"Rue Adrien Damalix",28,44,25,43
+5,"Rue du Docteur Decorse",0,9998,1,9999
+5,"Rue Eugène Delacroix",0,9998,1,9999
+5,"Avenue de Gravelle",0,9998,1,9999
+5,"Avenue du Mal de Lattre de Tassigny",0,0,56,70
+5,"Rue Marthe Chenal",0,9998,1,9999
+5,"Rue du Val d’Osne",0,0,41,"59bis"
+6,"Allée des Acacias",0,9998,1,9999
+6,"Rue Aristide Briand",0,9998,1,9999
+6,"Avenue des Canadiens",18,24,0,0
+6,"Allée des Frères Lumière",0,9998,1,9999
+6,"Avenue de Presles",0,9998,1,9999
+6,"Rue des Réservoirs",0,9998,1,9999
+6,"Avenue Saint Maurice du Valais",0,0,5,19
+7,"Rue J.F. Belbéoch",0,0,3,3
+7,"Allée Jean Biguet",0,9998,1,9999
+7,"Place de l’Ecluse",0,9998,1,9999
+7,"Allée de l’Ile des Corbeaux",0,9998,1,9999
+7,"Allée du Moulin des Corbeaux",0,9998,1,9999
+7,"Rue du Maréchal Leclerc",144,184,103,107
+7,"Rue du Maréchal Leclerc",212,"228bis",234,240
+7,"Allée du Petit Bras",0,9998,1,9999
+7,"Allée de la Villa Antony",0,9998,1,9999
+7,"Villa des Vignes",0,0,1,9999
+7,"Quai de Bir Hakeim",0,9998,1,9999
+7,"Avenue des Canadiens",4,4,0,0
+7,"Avenue des Canadiens",10,"10bis",0,0
+7,"Avenue de la Villa Antony",0,9998,1,9999
+8,"Belvédère des Martinets",0,9998,1,9999
+8,"Allée des Bateaux Lavoirs",0,9998,1,9999
+8,"Promenade du Canal",0,9998,1,9999
+8,"Allée des Canotiers",0,9998,1,9999
+8,"Rue Fragonard",0,9998,1,9999
+8,"Allée des Guinguettes",0,9998,1,9999
+8,"Rue Jean Gabin",0,9998,1,9999
+8,"Villa Jean Gabin",0,9998,1,9999
+8,"Place Montgolfier",0,9998,1,9999
+8,"Villa Montgolfier",0,9998,1,9999
+8,"Rue Paul Verlaine",0,9998,0,0
+9,"Rue J.F. Belbéoch",0,0,1,1
+9,"Avenue J.F. Kennedy",0,9998,1,9999
+9,"Rue du Maréchal Leclerc",258,272,109,"155B"
+9,"Avenue Saint Maurice du Valais",0,9998,0,0
+9,"Rue Paul Verlaine",0,0,1,9999
+9,"Villa des Vignes",0,9998,0,0
+9,"Chemin de Halage",0,9998,1,9999

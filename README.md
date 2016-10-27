@@ -4,6 +4,7 @@ Information sur le datacamp: https://www.etalab.gouv.fr/event/open-data-camp-cad
 
 Inscription ouverte sur: https://rdv.etalab.gouv.fr/e/11/open-data-camp-cadastre-electoral
 
+
 ## Objectif du datacamp
 
 Durant cette journée, les participants sont invités à travailler sous la forme d’ateliers afin de répondre à plusieurs défis :
