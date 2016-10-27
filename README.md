@@ -20,7 +20,7 @@ Durant cette journée, les participants sont invités à travailler sous la form
 
 Ces arrêtés définissent les limites géographiques des bureaux de vote.
 
-Ils sont en deux partie, c'est dans la partie des annexes que se trouvent la définition textuelle ou sous forme de tableaux des bureaux de votes.
+Ils sont en deux parties, c'est dans les annexes que se trouve la définition textuelle ou sous forme de tableaux des bureaux de votes.
 
 Ils ne sont facilement disponibles en général que sous forme de PDF scannés.
 
