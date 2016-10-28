@@ -18,6 +18,6 @@ do
   done
 done
 
-# on range le résultat dans le dossier "2-txt"
+# on range le résultat dans le dossier "1b-txt"
 mkdir -p 1b-txt
 mv tiff/*.pdf.tiff.txt 1b-txt
