@@ -1,6 +1,7 @@
 # Proposition de traitements des arrêtés
 
 Les arrêtés sont disponibles sous forme de fichiers PDF (scans).
+Le problème étant complexe, appliquons le principe du "diviser pour régner" et découpons-le en sous problèmes plus simples à résoudre séparément.
 
 ## Etape 1: OCR (PDF -> TXT)
 
