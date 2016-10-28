@@ -1,11 +1,12 @@
 # Proposition de traitements des arrêtés
 
-Les arrêtés sont disponibles sous forme de fichiers PDF (scans).
+Les arrêtés définissant les bureaux de votes sont disponibles sous forme de fichiers PDF (scans).
+
 Le problème étant complexe, appliquons le principe du "diviser pour régner" et découpons-le en sous problèmes plus simples à résoudre séparément.
 
 ## Etape 1: OCR (PDF -> TXT)
 
-Cette étape permet de récupérer le texte (approximatif) contenu dans les documents PDF.
+Cette étape permet de récupérer le texte (approximatif) contenu dans les scans PDF.
 
 
 ## Etape 2: extraction des données voies/adresses par bureau de vote (TXT -> CSV)
