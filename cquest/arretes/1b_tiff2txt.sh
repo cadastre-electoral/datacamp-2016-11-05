@@ -2,7 +2,7 @@
 # comme les orientations varient d'une page à l'autre pour chaque PDF,
 # les pages sont traitées une à une
 
-for t in 1-tiff/*.pdf.tiff
+for t in 1a-tiff/*.pdf.tiff
 do
   echo $t
   rm -f /tmp/tiff2txt-*.tif
@@ -19,5 +19,5 @@ do
 done
 
 # on range le résultat dans le dossier "2-txt"
-mkdir -p 2-txt
-mv tiff/*.pdf.tiff.txt 2-txt
+mkdir -p 1b-txt
+mv tiff/*.pdf.tiff.txt 1b-txt

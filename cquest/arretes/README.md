@@ -8,6 +8,12 @@ Le problème étant complexe, appliquons le principe du "diviser pour régner" e
 
 Cette étape permet de récupérer le texte (approximatif) contenu dans les scans PDF.
 
+2 scripts proposés:
+- 1a_pdf2tiff.sh : conversion des fichiers PDF en fichiers TIFF multipage
+- 1b_tiff2txt.sh : conversion des TIFF en TXT à l'aide de tesseract-ocr
+
+Les fichiers texte extraits automatiquement sont dans le dossier "1b-txt"
+
 
 ## Etape 2: extraction des données voies/adresses par bureau de vote (TXT -> CSV)
 
