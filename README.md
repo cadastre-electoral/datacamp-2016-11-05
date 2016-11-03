@@ -58,3 +58,54 @@ De même, les "issues" peuvent servir d'espace de discussion et le wiki peut ser
 A titre d'information les scripts utilisés pour les traitements préparatoires sont dans le dossier "scripts".
 
 
+## Données additionnelles utiles
+
+### Fichier FANTOIR (DGFiP) - Licence Ouverte
+
+Il contient les noms de rues et de lieux-dits. Il peut servir à retrouver les libellés des rues dans les arrêtés.
+
+http://www.data.gouv.fr/fr/datasets/fichier-fantoir-des-voies-et-lieux-dits/
+
+
+### Base Adresse Nationale (BAN) - ODbL
+
+Ce jeu de données contient la position géographique des adresses numérotées, avec le nom de voie et/ou de lieu-dit.
+
+http://www.data.gouv.fr/fr/datasets/ban-base-adresse-nationale/
+
+Version ODbL sur: http://bano.openstreetmap.fr/BAN_odbl/
+
+
+### Base Adresse Nationale Ouverte (BANO) - ODbL
+
+Ce jeu de données peut compléter la BAN par l'apport de la position des lieux-dits sans adresse numérotées.
+
+http://bano.openstreetmap.fr/data/
+
+
+### Données géographiques de l'APUR - ODbL
+
+L'APUR (Atelier Parisien d'URbanisme) diffuse plusieurs jeux de données géographiques de réfences:
+
+- Filaire de voirie :
+- Tronçons de voirie :
+- Parcelles :
+- Îlots bâtis:
+
+Le *filaire de voirie* contient toutes les voies d'Île de France, avec leur nom.
+
+Les *tronçons de voirie* contiennent le filaire découpé par tronçons à chaque intersection (à lier avec le filaire pour obtenir les noms). Chaque tronçon possède l'information sur les numéros pairs/impairs de début et de fin.
+
+Les *parcelles* correspondent au surfacique des parcelles cadastrales. Aucun information liées à l'adresse n'est présente.
+
+Les *îlots bâtis* sont les regroupement de parcelles par pâté de maisons.
+
+Voir: http://opendata.apur.org/
+
+
+### Données OpenStreetMap - ODbL
+
+Un exemple de découpage des bureaux de vote est disponible pour la commune de Saint-Maur-des-Fossés dans la base de données OpenStreetMap.
+Il a été créé à la main sur OpenStreetMap à partir des arrêtés PDF (travail fastidieux).
+
+Vous pouvez utiliser l'outil overpass-turbo d'OpenStreetMap pour visualiser les données actuellement dans la base OSM, ainsi que les exporter dans différents format (geojson, xml, etc). Voir: http://overpass-turbo.eu/s/jNL
